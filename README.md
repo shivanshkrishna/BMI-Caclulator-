@@ -1,0 +1,1 @@
+Created a command-line BMI calculator in Python prompting users for their weight (in kilograms) and height (in meters) calculating the BMI and classify it into categories (e.g., underweight, normal, overweight) based on predefined ranges and finally displaying the BMI result and category to the user.
